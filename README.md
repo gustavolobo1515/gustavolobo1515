@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" textheight="">Olá,meu nome é Gustavo e sou iniciante em programação,sempre em busca de conhecimento. </p>
+<p align="left">Olá,meu nome é Gustavo e sou iniciante em programação,sempre em busca de conhecimento. </p>
 
 ###
 
